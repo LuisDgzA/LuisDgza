@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/dgza96?label=dgza96&logo=twitter&style=flat-square)](https://twitter.com/dgza96)
-[<img src="thumbcode.png">]
+<img src="thumbcode.png">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
