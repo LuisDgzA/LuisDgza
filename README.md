@@ -17,14 +17,14 @@
 
 ## :mortar_board: Knowledge
 
-<img src="html5.png"  alt="HTML5" width="35px">
-<img src="css3.png"  alt="CSS3" width="35px">
-<img src="javascript.png"  alt="CSS3" width="35px">
-<img src="jquery.png"  alt="CSS3" width="110px">
-<img src="bootstrap.png"  alt="CSS3" width="35px">
-<img src="mysql.png"  alt="CSS3" width="70px">
-<img src="php.png"  alt="CSS3" width="50px">
-<img src="css3.png"  alt="CSS3" width="35px">
+<img src="html5.png" align="left" alt="HTML5" width="35px">
+<img src="css3.png" align="left" alt="CSS3" width="35px">
+<img src="javascript.png" align="left" alt="CSS3" width="35px">
+<img src="jquery.png" align="left" alt="CSS3" width="110px">
+<img src="bootstrap.png" align="left" alt="CSS3" width="35px">
+<img src="mysql.png" align="left" alt="CSS3" width="70px">
+<img src="php.png" align="left" alt="CSS3" width="50px">
+<img src="css3.png" align="left" alt="CSS3" width="35px">
 
 
 
