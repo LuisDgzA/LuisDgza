@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-
-**LuisDgzA/LuisDgza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/dgza96?label=dgza96&logo=twitter&style=flat-square)](https://twitter.com/dgza96)
 
 Here are some ideas to get you started:
 
