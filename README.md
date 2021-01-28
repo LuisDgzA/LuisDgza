@@ -24,6 +24,8 @@
 <img src="bootstrap.png" align="left" alt="CSS3" width="35px">
 <img src="mysql.png" align="left" alt="CSS3" width="70px">
 <img src="php.png" align="left" alt="CSS3" width="50px">
+<img src="git.png" align="left" alt="CSS3" width="30px">
+
 
 
 
